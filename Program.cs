@@ -27,7 +27,6 @@ public class HelloEvogens
     }
 }
     
-using System;
 
 class Program
 {
@@ -44,8 +43,7 @@ class Program
 
         Console.WriteLine("1'den " + number + " kadar olan sayıların toplamı: " + sum);
 
-        using System;
-
+    }
 class Program
     {
         static void Main(string[] args)
@@ -70,7 +68,7 @@ class Program
     }
 
 }
-}
+
 
 
 
