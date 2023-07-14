@@ -1,3 +1,5 @@
+*.suo
+
 [Bb]in/
 [Oo]bj/
 [Ll]og/
