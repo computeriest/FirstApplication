@@ -1,5 +1,5 @@
 *.suo
-
+.vs/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
